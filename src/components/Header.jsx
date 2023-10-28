@@ -6,7 +6,7 @@ const Header = () => {
     <div className="header">
       <div className="logo">
         <KeyboardAltRoundedIcon style={{ fontSize: "2rem" }} />
-        swift keys
+        Typing Speed Test
       </div>
       <Account/>
     </div>
